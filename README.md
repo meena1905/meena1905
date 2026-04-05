@@ -1,20 +1,57 @@
-<h1 align="center">Hi 👋, I'm S Meenakshi</h1>
-<h3 align="center">AI/ML Student turning ideas into intelligent applications ⚡ Building real-world AI apps | LLMs • RAG • Agents • NLP 🧠 Third-year AIML student | Passionate about LLMs, Agents & solving real problems with AI 🚀 From ML models to deployed apps — one project at a time 💡 AI/ML Engineer in the making | LangGraph • Groq • RAG • NLP</h3>
+# Hi, I'm S Meenakshi 👋
 
-- 🌱 I’m currently learning **Deep Learning**
+Third-year AI/ML student building real-world applications with LLMs, RAG pipelines, and multi-agent systems.  
+I care about shipping things that actually work — from model to deployment.
 
-- 👯 I’m looking to collaborate on **AI & ML Projects**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-meenakshi-b2356b288/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/meenakshi2005190)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meenakshis3019@gmail.com)
 
-- 🤝 I’m looking for help with **AI**
+---
 
-- 📫 How to reach me **meenakshis3019@gmail.com**
+## 🛠️ What I Build With
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ s-meenakshi-b2356b288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ s-meenakshi-b2356b288" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/meenakshi2005190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/meenakshi2005190" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/560036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="560036" height="30" width="40" /></a>
-</p>
+**AI/ML:** Python · LangChain · LangGraph · scikit-learn · FAISS · Groq · Ollama · Sentence Transformers · OpenAI API  
+**Data:** Pandas · NumPy · Seaborn · Matplotlib · TF-IDF · NLP  
+**Web & Deploy:** Flask · Streamlit · FastAPI · Supabase · PostgreSQL · SQLite · GitHub Actions · Docker · Render · Railway
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Projects
+
+### [AI News Aggregator](https://github.com/meena1905/AI_News_Aggregator)
+Fully automated GenAI pipeline that scrapes AI/tech articles from HackerNews and Dev.to, summarizes them with Llama 3.1 via Groq, and delivers personalized email digests daily at 7AM IST. GitHub Actions triggers the pipeline on a schedule using a LangGraph multi-agent architecture.  
+`Python` `LangGraph` `Groq` `Playwright` `FastAPI` `Supabase` `PostgreSQL` `GitHub Actions`
+
+---
+
+### [FinCo Banking Bot](https://github.com/meena1905/Finco_Banking_Bot)
+AI-powered banking complaint management system. Classifies complaints across 10+ categories with priority detection using TF-IDF + Logistic Regression, generates responses via OpenAI API, and provides a Flask employee dashboard deployed on Render.  
+`Python` `Flask` `scikit-learn` `OpenAI API` `SQLite` · [Live Demo](https://finco-banking-bot.onrender.com)
+
+---
+
+### [AI PDF Assistant](https://github.com/meena1905/AI-RAG-Agent)
+RAG-based document assistant for natural language querying over multi-page PDFs. Uses semantic search with FAISS vector database and local LLMs via Ollama — fully offline, no API key needed.  
+`Python` `LangChain` `FAISS` `Ollama` `Sentence Transformers` `Streamlit`
+
+---
+
+### [Hybrid Recommendation System](https://github.com/meena1905/Hybrid_Recommendation_System)
+Recommendation engine combining collaborative filtering and content-based approaches for improved accuracy over either method alone.  
+`Python` `scikit-learn` `Pandas` · [Live Demo](https://huggingface.co/spaces/meena1904/Movie_Recommendation_System)
+
+---
+
+## 🏆 Achievement
+
+**First Runner-Up — Inceptus 2025, Tech Ratri**  
+Built an AI security solution with access control, AES encryption, and breach detection — competing against 50+ teams.
+
+---
+
+## 📈 Currently
+
+- 🌱 Pursuing **AI & Machine Learning Professional Certification** (DataMites, 2026)
+- 👯 Open to collaborating on **AI/ML projects**
+- 📫 Reach me at **meenakshis3019@gmail.com**
