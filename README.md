@@ -1,4 +1,4 @@
-# Hi, I'm S Meenakshi 👋
+# Hi, I'm S Meenakshi 
 
 Third-year AI/ML student building real-world applications with LLMs, RAG pipelines, and multi-agent systems.  
 I care about shipping things that actually work — from model to deployment.
@@ -43,11 +43,12 @@ Recommendation engine combining collaborative filtering and content-based approa
 
 ---
 
-## 🏆 Achievement
+##  Achievement
 
 **First Runner-Up — Inceptus 2025, Tech Ratri**  
 Built an AI security solution with access control, AES encryption, and breach detection — competing against 50+ teams.
-
+**Top 600 – IQigai GenAI Fellowship, Fractal Analytics** 
+Ranked in the Top 600 out of thousands of participants in Round 2 of the IQigai GenAI Fellowship AI Challenge.
 ---
 
 ## 📈 Currently
