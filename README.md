@@ -1,58 +1,123 @@
-# Hi, I'm S Meenakshi 
+<div align="center">
 
-Third-year AI/ML student building real-world applications with LLMs, RAG pipelines, and multi-agent systems.  
-I care about shipping things that actually work — from model to deployment.
+# Hi, I'm Meenakshi 👋
+
+**AI/ML Engineering Student**
+
+Third-year student turning research into running code — LLMs, RAG pipelines, multi-agent systems, and real deployments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-meenakshi-b2356b288/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/meenakshi2005190)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meenakshis3019@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meenakshis3019@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ What I Build With
+## About Me
 
-**AI/ML:** Python · LangChain · LangGraph · scikit-learn · FAISS · Groq · Ollama · Sentence Transformers · OpenAI API  
-**Data:** Pandas · NumPy · Seaborn · Matplotlib · TF-IDF · NLP  
-**Web & Deploy:** Flask · Streamlit · FastAPI · Supabase · PostgreSQL · SQLite · GitHub Actions · Docker · Render · Railway
+I'm a third-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru. I build end-to-end AI systems — from model selection and pipeline design to deployment. My focus is on applications that actually ship: automated GenAI workflows, RAG-based assistants, and ML systems on real-world data.
 
----
-
-## 🚀 Projects
-
-### [AI News Aggregator](https://github.com/meena1905/AI_News_Aggregator)
-Fully automated GenAI pipeline that scrapes AI/tech articles from HackerNews and Dev.to, summarizes them with Llama 3.1 via Groq, and delivers personalized email digests daily at 7AM IST. GitHub Actions triggers the pipeline on a schedule using a LangGraph multi-agent architecture.  
-`Python` `LangGraph` `Groq` `Playwright` `FastAPI` `Supabase` `PostgreSQL` `GitHub Actions`
+- 🎓 B.E. in AI & ML, Atria Institute of Technology (GPA: 8.2)
+- 🔭 Currently building with **LangGraph**, **Groq**, and **LightGBM**
+- 📚 Pursuing **AI & ML Professional Certification** — DataMites (2026)
+- 🤝 Open to collaborations on AI/ML projects
+- 📍 Bengaluru, India
 
 ---
 
-### [FinCo Banking Bot](https://github.com/meena1905/Finco_Banking_Bot)
-AI-powered banking complaint management system. Classifies complaints across 10+ categories with priority detection using TF-IDF + Logistic Regression, generates responses via OpenAI API, and provides a Flask employee dashboard deployed on Render.  
-`Python` `Flask` `scikit-learn` `OpenAI API` `SQLite` · [Live Demo](https://finco-banking-bot.onrender.com)
+## Tech Stack
+
+**AI & ML**
+`Python` `LangChain` `LangGraph` `scikit-learn` `LightGBM` `SHAP` `FAISS` `Groq` `Ollama` `OpenAI API` `Sentence Transformers` `TF-IDF` `NLP` `RAG`
+
+**Data**
+`Pandas` `NumPy` `Seaborn` `Matplotlib`
+
+**Web & APIs**
+`Flask` `FastAPI` `Streamlit` `HTML/CSS` `Bootstrap`
+
+**Databases**
+`PostgreSQL` `MySQL` `SQLite` `Supabase` `Vector Databases`
+
+**DevOps & Tools**
+`Docker` `GitHub Actions` `Render` `Railway` `Playwright` `Hugging Face` `Git`
 
 ---
 
-### [AI PDF Assistant](https://github.com/meena1905/AI-RAG-Agent)
-RAG-based document assistant for natural language querying over multi-page PDFs. Uses semantic search with FAISS vector database and local LLMs via Ollama — fully offline, no API key needed.  
+## Projects
+
+### 🤖 [AI News Aggregator](https://github.com/meena1905/AI_News_Aggregator)
+> Fully automated GenAI pipeline with scheduled daily email digests
+
+Scrapes AI/tech articles from HackerNews and Dev.to, summarizes them with **Llama 3.1 via Groq**, and delivers personalized digests every morning at 7AM IST. Built on a **LangGraph multi-agent architecture** triggered by GitHub Actions on a cron schedule.
+
+`Python` `LangGraph` `LangChain` `Groq` `FastAPI` `Playwright` `Supabase` `PostgreSQL` `GitHub Actions`
+
+---
+
+### ☁️ [Cloud Resource Intelligence & Cost Optimizer](https://github.com/meena1905/Cloud-Resource-Intelligence-and-Cost-Optimizer) · [Live Demo ↗](https://cloud-resource-intelligence-and-cost-optimizer-m8erhlbr2xkxpa4.streamlit.app/)
+> ML system for cloud cost analysis on real Google Borg Cluster data
+
+End-to-end ML pipeline on the **Google Borg Cluster (2019)** dataset — predicts CPU & memory usage with **R² = 0.9998**, detected **62% CPU over-provisioning**, and identified **61.5% potential cost savings**. Explainability via SHAP. Fully containerized.
+
+`Python` `LightGBM` `scikit-learn` `SHAP` `FastAPI` `Streamlit` `Docker`
+
+---
+
+### 🏦 [FinCo Banking Bot](https://github.com/meena1905/Finco_Banking_Bot) · [Live Demo ↗](https://finco-banking-bot.onrender.com)
+> AI-powered complaint management system for banking
+
+Classifies complaints across **10+ categories** using TF-IDF + Logistic Regression, detects priority level, and generates responses via the **OpenAI API**. Flask employee dashboard deployed on Render.
+
+`Python` `Flask` `scikit-learn` `OpenAI API` `SQLite` `Bootstrap`
+
+---
+
+### 📄 [AI PDF Assistant](https://github.com/meena1905/AI-RAG-Agent)
+> Fully offline RAG document assistant
+
+Natural language querying over multi-page PDFs using semantic search with a **FAISS vector database** and local LLMs via **Ollama**. No API key required — runs entirely on-device.
+
 `Python` `LangChain` `FAISS` `Ollama` `Sentence Transformers` `Streamlit`
 
 ---
 
-### [Hybrid Recommendation System](https://github.com/meena1905/Hybrid_Recommendation_System)
-Recommendation engine combining collaborative filtering and content-based approaches for improved accuracy over either method alone.  
-`Python` `scikit-learn` `Pandas` · [Live Demo](https://huggingface.co/spaces/meena1904/Movie_Recommendation_System)
+### 🎬 [Hybrid Recommendation System](https://github.com/meena1905/Hybrid_Recommendation_System) · [Live Demo ↗](https://huggingface.co/spaces/meena1904/Movie_Recommendation_System)
+> Recommendation engine combining collaborative + content-based filtering
+
+Hybrid approach outperforms either method alone. Deployed as an interactive demo on Hugging Face Spaces.
+
+`Python` `scikit-learn` `Pandas`
 
 ---
 
-##  Achievement
+## Achievements
 
-**First Runner-Up — Inceptus 2025, Tech Ratri**  
-Built an AI security solution with access control, AES encryption, and breach detection — competing against 50+ teams.
-**Top 600 – IQigai GenAI Fellowship, Fractal Analytics** 
-Ranked in the Top 600 out of thousands of participants in Round 2 of the IQigai GenAI Fellowship AI Challenge.
+🥈 **First Runner-Up — Inceptus 2025, Tech Ratri**
+Built an AI security solution with access control, AES encryption, and breach detection — out of 50+ competing teams.
+
+🏆 **Top 600 — IQigai GenAI Fellowship, Fractal Analytics**
+Ranked Top 600 out of thousands in Round 2 of the IQigai GenAI Fellowship AI Challenge.
+
 ---
 
-## 📈 Currently
+## Positions
 
-- 🌱 Pursuing **AI & Machine Learning Professional Certification** (DataMites, 2026)
-- 👯 Open to collaborating on **AI/ML projects**
-- 📫 Reach me at **meenakshis3019@gmail.com**
+- **Member**, Institute of Electrical and Electronics Engineers (IEEE) — Mar 2026–Present
+- **Professional Service Director**, Rotaract Club, Atria Institute of Technology — Jun 2025–Present
+
+---
+
+## Certifications
+
+- Python for Everybody — University of Michigan
+- AI & Machine Learning Professional Certification — DataMites *(In Progress, 2026)*
+
+---
+
+<div align="center">
+  <sub>Open to internships and collaborations · meenakshis3019@gmail.com</sub>
+</div>
+---
+
