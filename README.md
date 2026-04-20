@@ -119,5 +119,3 @@ Ranked Top 600 out of thousands in Round 2 of the IQigai GenAI Fellowship AI Cha
 <div align="center">
   <sub>Open to internships and collaborations · meenakshis3019@gmail.com</sub>
 </div>
----
-
