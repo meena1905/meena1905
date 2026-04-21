@@ -74,15 +74,6 @@ Classifies complaints across **10+ categories** using TF-IDF + Logistic Regressi
 
 ---
 
-### 📄 [AI PDF Assistant](https://github.com/meena1905/AI-RAG-Agent)
-> Fully offline RAG document assistant
-
-Natural language querying over multi-page PDFs using semantic search with a **FAISS vector database** and local LLMs via **Ollama**. No API key required — runs entirely on-device.
-
-`Python` `LangChain` `FAISS` `Ollama` `Sentence Transformers` `Streamlit`
-
----
-
 ### 🎬 [Hybrid Recommendation System](https://github.com/meena1905/Hybrid_Recommendation_System) · [Live Demo ↗](https://huggingface.co/spaces/meena1904/Movie_Recommendation_System)
 > Recommendation engine combining collaborative + content-based filtering
 
