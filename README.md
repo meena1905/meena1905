@@ -85,11 +85,12 @@ Hybrid approach outperforms either method alone. Deployed as an interactive demo
 
 ## Achievements
 
+🏆 **Top 600 — IQigai GenAI Fellowship, Fractal Analytics**
+Ranked Top 600 out of thousands in Round 2 of the IQigai GenAI Fellowship AI Challenge.
+
 🥈 **First Runner-Up — Inceptus 2025, Tech Ratri**
 Built an AI security solution with access control, AES encryption, and breach detection — out of 50+ competing teams.
 
-🏆 **Top 600 — IQigai GenAI Fellowship, Fractal Analytics**
-Ranked Top 600 out of thousands in Round 2 of the IQigai GenAI Fellowship AI Challenge.
 
 ---
 
