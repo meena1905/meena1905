@@ -105,6 +105,7 @@ Built an AI security solution with access control, AES encryption, and breach de
 
 - Python for Everybody — University of Michigan
 - AI & Machine Learning Professional Certification — DataMites *(In Progress, 2026)*
+- Generative AI Job Simulation - Forage
 
 ---
 
