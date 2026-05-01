@@ -7,7 +7,6 @@
 Third-year student turning research into running code — LLMs, RAG pipelines, multi-agent systems, and real deployments,multi-model systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-meenakshi-b2356b288/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/meenakshi2005190)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meenakshis3019@gmail.com)
 
 </div>
