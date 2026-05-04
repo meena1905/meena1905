@@ -98,6 +98,8 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 
 [![Neural Notes](https://img.shields.io/badge/Neural%20Notes-My%20AI%2FML%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://meena19.hashnode.dev)
 
+---
+
 ## Positions
 
 - **Member**, Institute of Electrical and Electronics Engineers (IEEE) — Mar 2026–Present
