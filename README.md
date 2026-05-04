@@ -92,6 +92,11 @@ Built an AI security solution with access control, AES encryption, and breach de
 
 
 ---
+## ✍️ Technical Writing
+
+I write about LLM inference, agentic AI architecture, finetuning, and GenAI on my blog **Neural Notes**.
+
+[![Neural Notes](https://img.shields.io/badge/Neural%20Notes-My%20AI%2FML%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://meena19.hashnode.dev)
 
 ## Positions
 
