@@ -92,7 +92,7 @@ Built an AI security solution with access control, AES encryption, and breach de
 
 
 ---
-## ✍️ Technical Writing
+## Technical Writing
 
 I write about LLM inference, agentic AI architecture, finetuning, and GenAI on my blog **Neural Notes**.
 
