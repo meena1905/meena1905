@@ -4,10 +4,12 @@
 
 **AI/ML Engineering Student**
 
-Third-year student turning research into running code — LLMs, RAG pipelines, multi-agent systems, and real deployments,multi-model systems.
+Third-year student turning research into running code — LLMs, RAG pipelines, multi-agent systems, and real deployments, multi-model systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-meenakshi-b2356b288/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meenakshis3019@gmail.com)
+[![Blog](https://img.shields.io/badge/Neural_Notes-Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://meena19.hashnode.dev)
+![Visitor Count](https://komarev.com/ghpvc/?username=meena1905&color=blue&style=flat)
 
 </div>
 
@@ -82,6 +84,27 @@ Hybrid approach outperforms either method alone. Deployed as an interactive demo
 
 ---
 
+## 🔧 Open Source Contributions
+
+- 🔀 [oss-copilot PR #7](https://github.com/vominh1919/oss-copilot/pull/7) — Added Ollama, vLLM & SGLang backend support with auto-detection and fal.ai cloud integration
+- 🔀 [SwiftPredict PR #7](https://github.com/ManasRanjanJena253/SwiftPredict/pull/7) — Extended model zoo with CatBoostClassifier & CatBoostRegressor
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Meenakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meena1905&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meena1905&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=meena1905&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## Achievements
 
 🏆 **Top 600 — IQigai GenAI Fellowship, Fractal Analytics**
@@ -90,8 +113,8 @@ Ranked Top 600 out of thousands in Round 2 of the IQigai GenAI Fellowship AI Cha
 🥈 **First Runner-Up — Inceptus 2025, Tech Ratri**
 Built an AI security solution with access control, AES encryption, and breach detection — out of 50+ competing teams.
 
-
 ---
+
 ## Technical Writing
 
 I write about LLM inference, agentic AI architecture, finetuning, and GenAI on my blog **Neural Notes**.
@@ -102,7 +125,7 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 
 ## Positions
 
-- **Member**, Institute of Electrical and Electronics Engineers (IEEE) — Mar 2026–Present
+- **Joint Secretary**, IEEE MTT-S, Atria Institute of Technology — Mar 2026–Present
 - **Professional Service Director**, Rotaract Club, Atria Institute of Technology — Jun 2025–Present
 
 ---
@@ -111,7 +134,7 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 
 - Python for Everybody — University of Michigan
 - AI & Machine Learning Professional Certification — DataMites *(In Progress, 2026)*
-- Generative AI Job Simulation - Forage
+- Generative AI Job Simulation — Forage
 
 ---
 
