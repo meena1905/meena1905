@@ -91,20 +91,6 @@ Hybrid approach outperforms either method alone. Deployed as an interactive demo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Meenakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meena1905&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meena1905&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=meena1905&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Achievements
 
 🏆 **Top 600 — IQigai GenAI Fellowship, Fractal Analytics**
