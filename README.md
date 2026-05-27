@@ -9,7 +9,6 @@ Third-year student turning research into running code — LLMs, RAG pipelines, m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-meenakshi-b2356b288/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meenakshis3019@gmail.com)
 [![Blog](https://img.shields.io/badge/Neural_Notes-Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://meena19.hashnode.dev)
-![Visitor Count](https://komarev.com/ghpvc/?username=meena1905&color=blue&style=flat)
 
 </div>
 
