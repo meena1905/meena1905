@@ -18,7 +18,7 @@ Third-year student turning research into running code — LLMs, RAG pipelines, m
 
 I'm a third-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru. I build end-to-end AI systems — from model selection and pipeline design to deployment. My focus is on applications that actually ship: automated GenAI workflows, RAG-based assistants, and ML systems on real-world data.
 - 💼 Founding AI and Full Stack Engineer Intern @ **Lumoscale** (May 2026 – Present)
-- 🎓 B.E. in AI & ML, Atria Institute of Technology (GPA: 8.2)
+- 🎓 B.E. in AI & ML, Atria Institute of Technology
 - 🔭 Currently building with **LangGraph**, **Groq**, and **LightGBM**
 - 📚 Pursuing **AI & ML Professional Certification** — DataMites (2026)
 - 🤝 Open to collaborations on AI/ML projects
