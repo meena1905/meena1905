@@ -122,5 +122,5 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 ---
 
 <div align="center">
-  <sub>Founding AI and Full Stack Engineer Intern @ SreevaAI · Open to collaborations · meenakshis3019@gmail.com</sub>
+  <sub> Open to collaborations · meenakshis3019@gmail.com</sub>
 </div>
