@@ -17,7 +17,7 @@ I'm a third-year AI & ML Engineering student at Atria Institute of Technology, B
 - 💼 Founding AI and Full Stack Engineer Intern @ **Lumoscale** (May 2026 – Present)
 - 🎓 B.E. in AI & ML, Atria Institute of Technology
 - 🤝 Open to collaborations on AI/ML projects
-- 📍  Bengaluru, India
+- 📍  Bengaluru Karnataka, India
 
 ---
 
