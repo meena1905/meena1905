@@ -16,6 +16,4 @@
 ## About Me
 
 I'm a Forth-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru.
--  B.E. in AI & ML, Atria Institute of Technology
--  Bengaluru Karnataka, India
 
